@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/Languages-English-dodgerblue" />
 </p>
 
-- 🚀 Working on building Vista Tech.
+- 🚀 Working on building Vista Techm and BlueHexa.
 - 👨‍💻 5+ years of experience building scalable software and backend infrastructure.
 - ⚡ AI enthuenthusiast and is working on AI SAAS solutions.
 - 💡 Specialized in Java and Spring boot eco systems.
