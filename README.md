@@ -20,7 +20,7 @@
 </p>
 
 - 🚀 Working on building Vista Tech and BlueHexa.
-- 👨‍💻 5+ years of experience building scalable software and backend infrastructure.
+- 👨‍💻 6+ years of experience building scalable software and backend infrastructure.
 - ⚡ AI enthuenthusiast and is working on AI SAAS solutions.
 - 💡 Specialized in Java and Spring boot eco systems.
 - 👯 Worked at multiple international and fintech companies.
